@@ -1,0 +1,13 @@
+blockquote {
+    color:#1d1d1d;
+    font-weight:700;
+    margin:40px 0;
+}
+/* Fix wordpress admin menu display glitch */
+#adminmenu {
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    transform: translateZ(0);
+}

@@ -1,0 +1,348 @@
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" width="400" height="400"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_2_)">
+				<g>
+					<defs>
+						<rect id="SVGID_3_" width="400" height="400"/>
+					</defs>
+					<clipPath id="SVGID_4_">
+						<use xlink:href="#SVGID_3_"  overflow="visible"/>
+					</clipPath>
+					<g clip-path="url(#SVGID_4_)">
+						<g>
+							<g opacity="0.05">
+								<defs>
+									<rect id="SVGID_5_" x="113.7" y="98.217" opacity="0.05" width="160.796" height="226.89"/>
+								</defs>
+								<clipPath id="SVGID_6_">
+									<use xlink:href="#SVGID_5_"  overflow="visible"/>
+								</clipPath>
+								<g clip-path="url(#SVGID_6_)">
+									<g>
+										<defs>
+											<polygon id="SVGID_7_" points="220.903,98.217 113.708,98.228 113.7,325.107 274.486,325.1 274.496,151.81 											
+												"/>
+										</defs>
+										<clipPath id="SVGID_8_">
+											<use xlink:href="#SVGID_7_"  overflow="visible"/>
+										</clipPath>
+										
+											<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="99.4924" y1="-98.9563" x2="100.4924" y2="-98.9563" gradientTransform="matrix(0 -194.0291 194.0291 0 19394.5059 19691.4258)">
+											<stop  offset="0" style="stop-color:#FFFFFF"/>
+											<stop  offset="1" style="stop-color:#231F20"/>
+										</linearGradient>
+										<rect x="113.7" y="98.217" clip-path="url(#SVGID_8_)" fill="url(#SVGID_9_)" width="160.796" height="226.89"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<rect id="SVGID_10_" width="400" height="400"/>
+							</defs>
+							<clipPath id="SVGID_11_">
+								<use xlink:href="#SVGID_10_"  overflow="visible"/>
+							</clipPath>
+							<polygon clip-path="url(#SVGID_11_)" fill="#FFFFFF" points="230.903,88.217 123.708,88.228 123.7,315.108 284.486,315.1 
+								284.496,141.81 							"/>
+						</g>
+						<g>
+							<defs>
+								<rect id="SVGID_12_" width="400" height="400"/>
+							</defs>
+							<clipPath id="SVGID_13_">
+								<use xlink:href="#SVGID_12_"  overflow="visible"/>
+							</clipPath>
+							<g clip-path="url(#SVGID_13_)">
+								<g>
+									<defs>
+										<rect id="SVGID_14_" width="400" height="400"/>
+									</defs>
+									<clipPath id="SVGID_15_">
+										<use xlink:href="#SVGID_14_"  overflow="visible"/>
+									</clipPath>
+									<g clip-path="url(#SVGID_15_)">
+										<g opacity="0.05">
+											<g>
+												<defs>
+													<rect id="SVGID_16_" x="252.444" y="215.944" width="147.556" height="163.82"/>
+												</defs>
+												<clipPath id="SVGID_17_">
+													<use xlink:href="#SVGID_16_"  overflow="visible"/>
+												</clipPath>
+												<polygon clip-path="url(#SVGID_17_)" points="400,379.764 400,347.237 268.708,215.945 252.444,232.208 												"/>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g>
+									<defs>
+										<rect id="SVGID_18_" width="400" height="400"/>
+									</defs>
+									<clipPath id="SVGID_19_">
+										<use xlink:href="#SVGID_18_"  overflow="visible"/>
+									</clipPath>
+									<polygon clip-path="url(#SVGID_19_)" fill="#FAD211" points="231,142 284.496,142 231,88.217 									"/>
+								</g>
+								<g>
+									<defs>
+										<rect id="SVGID_20_" width="400" height="400"/>
+									</defs>
+									<clipPath id="SVGID_21_">
+										<use xlink:href="#SVGID_20_"  overflow="visible"/>
+									</clipPath>
+									<rect x="152" y="172.204" clip-path="url(#SVGID_21_)" fill="#EEEEEE" width="104" height="14.796"/>
+								</g>
+								<g>
+									<defs>
+										<rect id="SVGID_22_" width="400" height="400"/>
+									</defs>
+									<clipPath id="SVGID_23_">
+										<use xlink:href="#SVGID_22_"  overflow="visible"/>
+									</clipPath>
+									<rect x="152" y="212" clip-path="url(#SVGID_23_)" fill="#EEEEEE" width="76" height="13"/>
+								</g>
+								<g>
+									<defs>
+										<rect id="SVGID_24_" width="400" height="400"/>
+									</defs>
+									<clipPath id="SVGID_25_">
+										<use xlink:href="#SVGID_24_"  overflow="visible"/>
+									</clipPath>
+									<rect x="152" y="253" clip-path="url(#SVGID_25_)" fill="#EEEEEE" width="104" height="14"/>
+								</g>
+								<g>
+									<defs>
+										<rect id="SVGID_26_" width="400" height="400"/>
+									</defs>
+									<clipPath id="SVGID_27_">
+										<use xlink:href="#SVGID_26_"  overflow="visible"/>
+									</clipPath>
+									<polygon clip-path="url(#SVGID_27_)" points="292.695,258.459 399.999,365.764 399.999,333.236 308.959,242.195 									
+										"/>
+								</g>
+								<g>
+									<defs>
+										
+											<rect id="SVGID_28_" x="153.091" y="-8.006" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -32.3415 305.9051)" width="399.996" height="399.996"/>
+									</defs>
+									<clipPath id="SVGID_29_">
+										<use xlink:href="#SVGID_28_"  overflow="visible"/>
+									</clipPath>
+									
+										<rect x="266.705" y="195.704" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -79.5243 263.4129)" clip-path="url(#SVGID_29_)" fill="#FAD211" width="23.001" height="63.994"/>
+								</g>
+								<g>
+									<defs>
+										<rect id="SVGID_30_" width="400" height="400"/>
+									</defs>
+									<clipPath id="SVGID_31_">
+										<use xlink:href="#SVGID_30_"  overflow="visible"/>
+									</clipPath>
+									<g clip-path="url(#SVGID_31_)">
+										<g>
+											<defs>
+												<rect id="SVGID_32_" width="400" height="400"/>
+											</defs>
+											<defs>
+												<rect id="SVGID_33_" width="400" height="400"/>
+											</defs>
+											<defs>
+												<rect id="SVGID_34_" width="400" height="400"/>
+											</defs>
+											<defs>
+												<rect id="SVGID_35_" width="400" height="400"/>
+											</defs>
+											<defs>
+												<rect id="SVGID_36_" width="400" height="400"/>
+											</defs>
+											<clipPath id="SVGID_37_">
+												<use xlink:href="#SVGID_32_"  overflow="visible"/>
+											</clipPath>
+											<clipPath id="SVGID_38_" clip-path="url(#SVGID_37_)">
+												<use xlink:href="#SVGID_33_"  overflow="visible"/>
+											</clipPath>
+											<clipPath id="SVGID_39_" clip-path="url(#SVGID_38_)">
+												<use xlink:href="#SVGID_34_"  overflow="visible"/>
+											</clipPath>
+											<clipPath id="SVGID_40_" clip-path="url(#SVGID_39_)">
+												<use xlink:href="#SVGID_35_"  overflow="visible"/>
+											</clipPath>
+											<clipPath id="SVGID_41_" clip-path="url(#SVGID_40_)">
+												<use xlink:href="#SVGID_36_"  overflow="visible"/>
+											</clipPath>
+											<path clip-path="url(#SVGID_41_)" fill="#FAD211" d="M195.997,315.859c24.438,0,44.25-19.811,44.25-44.25v0.001
+												c0,24.438,19.811,44.249,44.249,44.249h-0.002c-24.438,0-44.25,19.812-44.25,44.25v-0.001
+												c0-24.437-19.811-44.249-44.249-44.249H195.997z"/>
+											<path clip-path="url(#SVGID_41_)" fill="#FAD211" d="M170.75,218.5c10.632,0,19.25-8.619,19.25-19.251v0.001
+												c0,10.631,8.619,19.25,19.25,19.25h-0.001c-10.632,0-19.25,8.619-19.25,19.25c0-10.631-8.619-19.25-19.25-19.25H170.75z"
+												/>
+											<path clip-path="url(#SVGID_41_)" fill="#FAD211" d="M60.201,119.967c17.535,0,31.749-14.216,31.749-31.75v0.001
+												c0,17.533,14.217,31.749,31.75,31.749h-0.001c-17.536,0-31.75,14.216-31.75,31.75c0-17.534-14.216-31.75-31.75-31.75
+												C60.199,119.967,60.201,119.967,60.201,119.967z"/>
+											<path clip-path="url(#SVGID_41_)" fill="#FAD211" d="M301.2,179.601c10.665,0,19.309-8.646,19.309-19.31v0.001
+												c0,10.663,8.646,19.309,19.309,19.309c-10.665,0-19.309,8.646-19.309,19.309c0-10.663-8.646-19.309-19.31-19.309
+												L301.2,179.601L301.2,179.601z"/>
+											<g clip-path="url(#SVGID_41_)">
+												<g>
+													<g opacity="0.05">
+														<defs>
+															<rect id="SVGID_42_" x="113.7" y="98.217" opacity="0.05" width="160.796" height="226.89"/>
+														</defs>
+														<clipPath id="SVGID_43_">
+															<use xlink:href="#SVGID_42_"  overflow="visible"/>
+														</clipPath>
+														<g clip-path="url(#SVGID_43_)">
+															<g>
+																<defs>
+																	<polygon id="SVGID_44_" points="220.903,98.217 113.708,98.228 113.7,325.107 274.486,325.1 274.496,151.81 
+																																			"/>
+																</defs>
+																<clipPath id="SVGID_45_">
+																	<use xlink:href="#SVGID_44_"  overflow="visible"/>
+																</clipPath>
+																
+																	<linearGradient id="SVGID_46_" gradientUnits="userSpaceOnUse" x1="99.4924" y1="-98.9563" x2="100.4924" y2="-98.9563" gradientTransform="matrix(0 -194.0291 194.0291 0 19394.5059 19691.4258)">
+																	<stop  offset="0" style="stop-color:#FFFFFF"/>
+																	<stop  offset="1" style="stop-color:#231F20"/>
+																</linearGradient>
+																<rect x="113.7" y="98.217" clip-path="url(#SVGID_45_)" fill="url(#SVGID_46_)" width="160.796" height="226.89"/>
+															</g>
+														</g>
+													</g>
+													<g id="figure">
+														<defs>
+															<rect id="SVGID_47_" width="400" height="400"/>
+														</defs>
+														<defs>
+															<rect id="SVGID_48_" width="400" height="400"/>
+														</defs>
+														<clipPath id="SVGID_49_">
+															<use xlink:href="#SVGID_47_"  overflow="visible"/>
+														</clipPath>
+														<clipPath id="SVGID_50_" clip-path="url(#SVGID_49_)">
+															<use xlink:href="#SVGID_48_"  overflow="visible"/>
+														</clipPath>
+														<polygon clip-path="url(#SVGID_50_)" fill="#FFFFFF" points="230.903,88.217 123.708,88.228 123.7,315.108 
+															284.486,315.1 284.496,141.81 														"/>
+														<g clip-path="url(#SVGID_50_)">
+															<g opacity="0.05">
+																<g>
+																	<defs>
+																		<rect id="SVGID_51_" x="252.444" y="215.944" width="147.556" height="163.82"/>
+																	</defs>
+																	<clipPath id="SVGID_52_">
+																		<use xlink:href="#SVGID_51_"  overflow="visible"/>
+																	</clipPath>
+																	<polygon clip-path="url(#SVGID_52_)" points="400,379.764 400,347.237 268.708,215.945 252.444,232.208 
+																																			"/>
+																</g>
+															</g>
+															<g>
+																<defs>
+																	<rect id="SVGID_53_" width="400" height="400"/>
+																</defs>
+																<defs>
+																	<rect id="SVGID_54_" width="400" height="400"/>
+																</defs>
+																<defs>
+																	<rect id="SVGID_55_" width="400" height="400"/>
+																</defs>
+																<defs>
+																	<rect id="SVGID_56_" width="400" height="400"/>
+																</defs>
+																<defs>
+																	<rect id="SVGID_57_" width="400" height="400"/>
+																</defs>
+																<defs>
+																	
+																		<rect id="SVGID_58_" x="153.091" y="-8.006" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -32.3415 305.9051)" width="399.996" height="399.996"/>
+																</defs>
+																<defs>
+																	<rect id="SVGID_59_" width="400" height="400"/>
+																</defs>
+																<defs>
+																	<rect id="SVGID_60_" width="400" height="400"/>
+																</defs>
+																<defs>
+																	<rect id="SVGID_61_" width="400" height="400"/>
+																</defs>
+																<defs>
+																	<rect id="SVGID_62_" width="400" height="400"/>
+																</defs>
+																<clipPath id="SVGID_63_">
+																	<use xlink:href="#SVGID_53_"  overflow="visible"/>
+																</clipPath>
+																<clipPath id="SVGID_64_" clip-path="url(#SVGID_63_)">
+																	<use xlink:href="#SVGID_54_"  overflow="visible"/>
+																</clipPath>
+																<clipPath id="SVGID_65_" clip-path="url(#SVGID_64_)">
+																	<use xlink:href="#SVGID_55_"  overflow="visible"/>
+																</clipPath>
+																<clipPath id="SVGID_66_" clip-path="url(#SVGID_65_)">
+																	<use xlink:href="#SVGID_56_"  overflow="visible"/>
+																</clipPath>
+																<clipPath id="SVGID_67_" clip-path="url(#SVGID_66_)">
+																	<use xlink:href="#SVGID_57_"  overflow="visible"/>
+																</clipPath>
+																<clipPath id="SVGID_68_" clip-path="url(#SVGID_67_)">
+																	<use xlink:href="#SVGID_58_"  overflow="visible"/>
+																</clipPath>
+																<clipPath id="SVGID_69_" clip-path="url(#SVGID_68_)">
+																	<use xlink:href="#SVGID_59_"  overflow="visible"/>
+																</clipPath>
+																<clipPath id="SVGID_70_" clip-path="url(#SVGID_69_)">
+																	<use xlink:href="#SVGID_60_"  overflow="visible"/>
+																</clipPath>
+																<clipPath id="SVGID_71_" clip-path="url(#SVGID_70_)">
+																	<use xlink:href="#SVGID_61_"  overflow="visible"/>
+																</clipPath>
+																<clipPath id="SVGID_72_" clip-path="url(#SVGID_71_)">
+																	<use xlink:href="#SVGID_62_"  overflow="visible"/>
+																</clipPath>
+																<polygon clip-path="url(#SVGID_72_)" fill="#FAD211" points="231,142 284.496,142 231,88.217 																"/>
+																<rect x="152" y="172.204" clip-path="url(#SVGID_72_)" fill="#EEEEEE" width="104" height="14.796"/>
+																<rect x="152" y="212" clip-path="url(#SVGID_72_)" fill="#EEEEEE" width="76" height="13"/>
+																<rect x="152" y="253" clip-path="url(#SVGID_72_)" fill="#EEEEEE" width="104" height="14"/>
+																<polygon clip-path="url(#SVGID_72_)" points="400,365.764 400,333.237 308.959,242.196 292.695,258.459 
+																																	"/>
+																
+																	<rect x="266.705" y="195.704" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -79.5243 263.4129)" clip-path="url(#SVGID_72_)" fill="#FAD211" width="23.001" height="63.994"/>
+																<path clip-path="url(#SVGID_72_)" fill="#FAD211" d="M195.997,315.859c24.438,0,44.25-19.811,44.25-44.25v0.001
+																	c0,24.438,19.811,44.249,44.249,44.249h-0.002c-24.438,0-44.25,19.812-44.25,44.25v-0.001
+																	c0-24.437-19.811-44.249-44.249-44.249H195.997z"/>
+																<path clip-path="url(#SVGID_72_)" fill="#FAD211" d="M170.75,218.5c10.632,0,19.25-8.619,19.25-19.251v0.001
+																	c0,10.631,8.619,19.25,19.25,19.25h-0.001c-10.632,0-19.25,8.619-19.25,19.25c0-10.631-8.619-19.25-19.25-19.25
+																	H170.75z"/>
+																<path clip-path="url(#SVGID_72_)" fill="#FAD211" d="M60.201,119.967c17.535,0,31.749-14.216,31.749-31.75v0.001
+																	c0,17.533,14.217,31.749,31.75,31.749h-0.001c-17.536,0-31.75,14.216-31.75,31.75
+																	c0-17.534-14.216-31.75-31.75-31.75C60.199,119.967,60.201,119.967,60.201,119.967z"/>
+																<path clip-path="url(#SVGID_72_)" fill="#FAD211" d="M301.2,179.601c10.665,0,19.309-8.646,19.309-19.31v0.001
+																	c0,10.663,8.646,19.309,19.309,19.309c-10.665,0-19.309,8.646-19.309,19.309c0-10.663-8.646-19.309-19.31-19.309
+																	L301.2,179.601L301.2,179.601z"/>
+															</g>
+														</g>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

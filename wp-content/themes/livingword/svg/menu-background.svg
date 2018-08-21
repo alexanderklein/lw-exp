@@ -1,0 +1,15 @@
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="34.383px" height="52.488px" viewBox="0 0 34.383 52.488" enable-background="new 0 0 34.383 52.488" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="0" width="34.383" height="52.488"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="#212121" d="M0,15.152h9.492v23.45l15.188-23.45h9.703v37.336H24.89V28.617L9.492,52.488H0
+		V15.152z M23.66,0h4.816c-0.281,3.188-1.4,5.689-3.357,7.506c-1.957,1.816-4.494,2.724-7.611,2.724
+		c-3.118,0-5.655-0.908-7.612-2.724C7.939,5.689,6.82,3.188,6.539,0h4.816c0.164,1.664,0.75,2.924,1.758,3.779
+		c1.008,0.856,2.473,1.283,4.395,1.283s3.386-0.427,4.394-1.283C22.91,2.924,23.496,1.664,23.66,0"/>
+</g>
+</svg>
