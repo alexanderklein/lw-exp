@@ -61,6 +61,22 @@ a.cta {
     margin-bottom:35px;
 }
 
+#stage {
+    height: 500px;
+    width: 500px;
+    background-color:blue;
+    color: white;
+}
+
+
+#translation-toggler-container {
+    opacity: 1;
+}
+
+#translation-toggler {
+    background-color: yellow;
+}
+
 
 
 
