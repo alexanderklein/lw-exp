@@ -4548,23 +4548,49 @@ a.cta {
 
 #stage {
     height: 100%;
-    padding-top: 10%;
     background-color: #F6DE67;
     white-space: normal;
 }
 
-#stage h1 {
-    font-size: 65px;
-    line-height: 70px;
-}
 
 #translation-toggler-container {
     opacity: 1;
 }
 
-
-/*
-#translation-toggler {
-    display: block;
+@media screen and (min-width:360px) {
+    #stage h1 {
+        padding: 20%;
+        line-height: 30px;
+        font-size: 25px;
+    }
 }
-/*ggg
+
+@media screen and (min-width: 390px) {
+
+}
+
+@media screen and (min-width:768px) {
+#stage h1 {
+    font-size: 65px;
+    line-height: 70px;
+    padding: 10%;
+}
+
+}
+
+@media screen and (min-width: 1024px) {
+
+}
+
+@media screen and (min-width: 1330px) {
+
+
+}
+@media screen and (max-width: 767px) and (orientation: landscape) {
+
+}
+
+@media screen and (min-width: 1024px) and (max-height: 660px) {
+
+}
+
