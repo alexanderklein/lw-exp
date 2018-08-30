@@ -4549,19 +4549,20 @@ a.cta {
 #stage {
     background-color: #F6DE67;
     white-space: normal;
+    height:100%;
 }
 
 
 #translation-toggler-container {
-    height: 300px !important;
+    height: 400px !important;
     opacity: 1;
 }
 
 @media screen and (min-width:360px) {
     #stage h1 {
         padding: 20%;
-        line-height: 30px;
-        font-size: 25px;
+        line-height: 35px;
+        font-size: 30px;
     }
 }
 
