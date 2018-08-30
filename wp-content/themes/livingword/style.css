@@ -4547,13 +4547,13 @@ a.cta {
 }
 
 #stage {
-    height: 100%;
     background-color: #F6DE67;
     white-space: normal;
 }
 
 
 #translation-toggler-container {
+    height: 300px !important;
     opacity: 1;
 }
 
