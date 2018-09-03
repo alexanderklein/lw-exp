@@ -4547,10 +4547,17 @@ a.cta {
 }
 
 #stage {
+    position: relative;
     background-color: #F6DE67;
     white-space: normal;
-    height:100%;
+    height:500px;
+    width: 90%;
+    z-index: 96;
+    margin: 0 auto;
+    padding-top: 70px;
+    text-align: center;
 }
+
 
 
 #translation-toggler-container {
@@ -4559,10 +4566,6 @@ a.cta {
 }
 
 @media screen and (min-width:360px) {
-    #stage h1 {
-        padding: 20%;
-        line-height: 35px;
-        font-size: 30px;
     }
 }
 
@@ -4571,19 +4574,19 @@ a.cta {
 }
 
 @media screen and (min-width:768px) {
-#stage h1 {
-    font-size: 65px;
-    line-height: 70px;
-    padding: 10%;
-}
 
 }
 
 @media screen and (min-width: 1024px) {
-
+  #stage {
+    width: 970px;
+  }
 }
 
 @media screen and (min-width: 1330px) {
+  #stage {
+    width: 1250px;
+  }
 
 
 }
