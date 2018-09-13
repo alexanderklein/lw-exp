@@ -310,3 +310,5 @@ add_filter('tiny_mce_before_init', 'fb_mce_before_init');
 function wrap_letters($label) {
     return preg_replace('/ /i', '&nbsp;', '<span>' . implode('</span><span>', str_split($label)) . '</span>');
 }
+
+add_filter('acf/settings/remove_wp_meta_box', '__return_false');
