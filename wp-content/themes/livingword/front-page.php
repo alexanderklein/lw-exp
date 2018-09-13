@@ -13,34 +13,36 @@ if (count($homepage_translation_items) > 2) {
 }
 ?>
     <?php while (have_posts()): the_post();?>
-        <div id="stage">
-        <h1>Lorem Ipsum</h1>
-        </div>
-							<!--
-							    <div id="first-vertical-line" class="vertical-line scroll-fade"></div>
-							    -->
+	    <div id="stage-wrapper">
+	        <div id="stage">
+	        <h1>Lorem Ipsum</h1>
+	        </div>
+	        </div>
+								<!--
+								    <div id="first-vertical-line" class="vertical-line scroll-fade"></div>
+								    -->
 
-							    <section id="our-services" class="our-services-section">
-							        <div class="section">
-							            <h3 class="title scroll-anim type-anim ui" data-animation='{"animation": "type", "group": 1}'>
-							                <?php echo wrap_letters(get_field('our_services_title')); ?>
-							            </h3>
-							            <div class="title-line scroll-anim expand-anim fade" data-animation='{"animation": "expand", "delay": 0.5, "group": 1}'></div>
+								    <section id="our-services" class="our-services-section">
+								        <div class="section">
+								            <h3 class="title scroll-anim type-anim ui" data-animation='{"animation": "type", "group": 1}'>
+								                <?php echo wrap_letters(get_field('our_services_title')); ?>
+								            </h3>
+								            <div class="title-line scroll-anim expand-anim fade" data-animation='{"animation": "expand", "delay": 0.5, "group": 1}'></div>
 
-							            <div id="services-container" class="wrapper ui scroll-fade white-bg">
-							                <?php
+								            <div id="services-container" class="wrapper ui scroll-fade white-bg">
+								                <?php
     $services = get_field('services_list');
     $services_list = array();
 
     if (!empty($services)):
     ?>
 
-							                <!-- Mobile -->
-							                <div class="services-list mobile-only">
-							                <?php foreach (array_chunk($services, 2, true) as $services_group): ?>
+								                <!-- Mobile -->
+								                <div class="services-list mobile-only">
+								                <?php foreach (array_chunk($services, 2, true) as $services_group): ?>
 
-							                    <?php foreach ($services_group as $index2 => $service): ?>
-							                        <div class="service-item<?php if ($index2 % 2 == 0): ?> no-border<?php endif;?>">
+								                    <?php foreach ($services_group as $index2 => $service): ?>
+								                        <div class="service-item<?php if ($index2 % 2 == 0): ?> no-border<?php endif;?>">
                             <p class="subtitle"><?php echo $service['service_name']; ?></p>
                         </div>
                     <?php endforeach;?>
@@ -79,10 +81,10 @@ foreach ($services_group as $index2 => $service):
     }
 
     ?>
-							                        <div class="service-item<?php echo $service_item_classes; ?> scroll-anim fade slide-anim" data-animation='{"animation": "slide", "delay": <?php echo 0.75 + $index2 * 0.1; ?>, "group": 1}'>
-							                            <p class="subtitle"><?php echo $service['service_name']; ?></p>
-							                        </div>
-							                    <?php endforeach;?>
+								                        <div class="service-item<?php echo $service_item_classes; ?> scroll-anim fade slide-anim" data-animation='{"animation": "slide", "delay": <?php echo 0.75 + $index2 * 0.1; ?>, "group": 1}'>
+								                            <p class="subtitle"><?php echo $service['service_name']; ?></p>
+								                        </div>
+								                    <?php endforeach;?>
 
                     <div class="services-row">
                     <?php foreach ($services_group as $service): ?>
@@ -175,24 +177,24 @@ foreach ($agency_clients as $index3 => $agency_client):
         $pos = strpos($agency_client['client_logo']['url'], 'wp-content/');
         $client_logo_svg_code = file_get_contents(wp_normalize_path($_SERVER["DOCUMENT_ROOT"] . '/' . substr($agency_client['client_logo']['url'], $pos)));
         ?>
-														                    <li class="agency-client scroll-anim fade scale-anim clip" data-animation='{"animation": "scale", "delay": <?php echo 0.3 + $index3 * 0.06; ?>, "group": 3}'>
-														                        <?php
+																                    <li class="agency-client scroll-anim fade scale-anim clip" data-animation='{"animation": "scale", "delay": <?php echo 0.3 + $index3 * 0.06; ?>, "group": 3}'>
+																                        <?php
         if ($client_logo_svg_code !== false) {
             echo $client_logo_svg_code;
         }
         ?>
-														                        <?php
+																                        <?php
         if (!empty($agency_client['client_hover_text'])):
         ?>
-														                        <div class="hover-text copy<?php echo $classes; ?>">
-														                            <div class="hover-text-content">
-														                                <?php echo $agency_client['client_hover_text']; ?>
-														                                <span class="client-name"><?php echo $agency_client['client_name']; ?></span>
-														                            </div>
-														                        </div>
-														                        <?php endif;?>
-							                    </li>
-							                <?php
+																                        <div class="hover-text copy<?php echo $classes; ?>">
+																                            <div class="hover-text-content">
+																                                <?php echo $agency_client['client_hover_text']; ?>
+																                                <span class="client-name"><?php echo $agency_client['client_name']; ?></span>
+																                            </div>
+																                        </div>
+																                        <?php endif;?>
+								                    </li>
+								                <?php
 endif;
 endforeach;
 ?>
@@ -242,7 +244,7 @@ while ($loop->have_posts()): $loop->the_post();
 
     $has_thumbnail = has_post_thumbnail($post_id);
     ?>
-							                    <?php
+								                    <?php
     set_query_var('post_index', $post_index);
     set_query_var('post_id', $post_id);
     set_query_var('has_thumbnail', $has_thumbnail);
@@ -254,7 +256,7 @@ while ($loop->have_posts()): $loop->the_post();
     $post_index++;
     ?>
 
-							                <?php endwhile;?>
+								                <?php endwhile;?>
                 <?php wp_reset_postdata();?>
             </div>
             <div class="wrapper">
@@ -456,11 +458,11 @@ foreach ($languages_position as $index => $language_position):
         $x = $language_position['x'];
         $y = $language_position['y'];
         ?>
-														    <div class="letter <?php echo $language_class; ?>" data-ease="<?php echo $ease; ?>" style="top: <?php echo $y; ?>%; left: <?php echo $x; ?>%;">
-														        <?php echo $svg_letter; ?>
-														        <p class="letter-language-name"><?php echo ucfirst($label); ?></p>
-														    </div>
-														    <?php
+																    <div class="letter <?php echo $language_class; ?>" data-ease="<?php echo $ease; ?>" style="top: <?php echo $y; ?>%; left: <?php echo $x; ?>%;">
+																        <?php echo $svg_letter; ?>
+																        <p class="letter-language-name"><?php echo ucfirst($label); ?></p>
+																    </div>
+																    <?php
     endif;
 endforeach;
 ?>

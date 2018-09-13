@@ -4548,16 +4548,24 @@ a.cta {
 
 /* TODO: Continue here.*/
 
+#stage-wrapper {
+    position: relative;
+    width: 100%;
+    background-color: #F6DE67;
+    background-color: blue;
+    z-index: 96;
+}
+
 #stage {
     position: relative;
-    background-color: #F6DE67;
+    background-color: green;
     white-space: normal;
     height:500px;
     width: 90%;
-    z-index: 96;
     margin: 0 auto;
     padding-top: 70px;
     text-align: center;
+    z-index: 96;
 }
 
 
