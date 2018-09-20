@@ -28,10 +28,14 @@ if (count($homepage_translation_items) > 2) {
             <div class="title-line scroll-anim expand-anim fade" data-animation='{"animation": "expand", "delay": 0.5, "group": 4}'></div>
 
             <?php
+            $number_of_posts = 1;
+            if(isset($_GET['number_of_posts']) && !empty($_GET['number_of_posts'])) {
+                $number_of_posts = $_GET['number_of_posts'];
+            }
 $args = array(
     'post_type' => array('post'),
     'post_status' => array('publish'),
-    'posts_per_page' => '3',
+    'posts_per_page' => $number_of_posts,
     'order_by' => 'date',
     'order' => 'DESC',
 );
