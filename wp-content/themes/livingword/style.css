@@ -4528,13 +4528,18 @@ a {
     }
 }
 
-a.cta {
+a.cta, a.homepage-cta {
     background-color: #000;
     border-radius: 0px;
     color: #FFF;
     padding: 10px 10px 10px 10px;
     font-weight: bold;
     font-family: "GT-Walsheim", sans-serif;
+}
+
+a.homepage-cta {
+    font-size: 22px;
+    padding: 10px 40px;
 }
 
 .service-description p:last-child {
@@ -4551,35 +4556,67 @@ a.cta {
 #stage-wrapper {
     position: relative;
     width: 100%;
-    background-color: #F6DE67;
-    background-color: blue;
     z-index: 96;
 }
 
 #stage {
     position: relative;
-    background-color: green;
     white-space: normal;
-    height:500px;
     width: 90%;
     margin: 0 auto;
-    padding-top: 70px;
     text-align: center;
     z-index: 96;
+    padding: 70px 0px 50px 0px;
+}
+
+#test {
+    width: 100%;
+    height: 400px;
+    margin: 50px auto;
+}
+.left-stage, .right-stage {
+    background-color: lightgray;
+}
+
+#stage h1 {
+    font-size: 95px;
+    line-height: 105%;
+    margin-top: 90px;
+}
+
+#stage p {
+    font-size: 42px;
+    line-height: 105%;
+    font-family: ChronicleTextG1-Roman;
+    margin-bottom: 65px;
+}
+
+#sub-headline-wrapper {
+    padding: 0 90px;
+}
+
+#stage .white {
+    color: white;
+}
+
+.post-item.post-item.has-thumbnail {
+    margin-top: -120px !important;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.posts-headline {
+    font-size: 19px;
+    font-weight: 700;
+    color: black;
+    margin-top: 2px;
 }
 
 
-
-#translation-toggler-container {
-    height: 400px !important;
-    opacity: 1;
-}
 
 @media screen and (min-width:360px) {
-    }
-}
-
-@media screen and (min-width: 390px) {
 
 }
 
@@ -4595,7 +4632,7 @@ a.cta {
 
 @media screen and (min-width: 1330px) {
   #stage {
-    width: 1250px;
+      width: 1250px;
   }
 
 
