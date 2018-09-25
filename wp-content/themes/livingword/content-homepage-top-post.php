@@ -1,5 +1,5 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-    <a class="post-item<?php echo ($has_thumbnail && $post_index == 0) ? ' has-thumbnail' : ''; ?><?php echo ($post_index > 0) ? ' small' : ''; ?> " href="<?php the_permalink(); ?>" data-animation='{"animation": "slide", "delay": <?php echo 1 + $post_index * 0.15; ?>, "group": 4}'>
+    <a class="post-item homepage-post<?php echo ($has_thumbnail && $post_index == 0) ? ' has-thumbnail' : ''; ?><?php echo ($post_index > 0) ? ' small' : ''; ?> " href="<?php the_permalink(); ?>" data-animation='{"animation": "slide", "delay": <?php echo 1 + $post_index * 0.15; ?>, "group": 4}'>
     <!-- scroll-anim fade slide-anim -->
         <div class="wrapper clearfix top-posts">
             <div class="post-infos">

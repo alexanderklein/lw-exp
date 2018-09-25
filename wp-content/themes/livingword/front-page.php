@@ -203,9 +203,7 @@ foreach ($services_group as $index2 => $service):
         </div>
     </section>
 
-<!--
-    <div class="vertical-line scroll-fade"></div>
-    -->
+<div id="grey-line"></div>
 
     <section id="who-we-work-with" class="we-work-for-section">
         <div class="section">

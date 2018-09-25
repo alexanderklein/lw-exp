@@ -4557,11 +4557,13 @@ a.homepage-cta {
     position: relative;
     width: 100%;
     z-index: 96;
+    min-height: 700px;
 }
 
 #stage {
     position: relative;
     white-space: normal;
+    min-height: 700px;
     width: 90%;
     margin: 0 auto;
     text-align: center;
@@ -4599,8 +4601,13 @@ a.homepage-cta {
     color: white;
 }
 
-.post-item.post-item.has-thumbnail {
+.post-item.post-item.has-thumbnail.homepage-post {
     margin-top: -120px !important;
+}
+
+.clearfix.wrapper.top-posts {
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .right-align {
@@ -4612,6 +4619,19 @@ a.homepage-cta {
     font-weight: 700;
     color: black;
     margin-top: 2px;
+}
+
+#grey-line {
+    height: 0px;
+    width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
+    border-bottom-color: rgb(224, 224, 224);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    margin-top: -59px;
+    margin-bottom: -60px;
 }
 
 
